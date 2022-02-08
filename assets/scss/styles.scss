@@ -217,6 +217,10 @@ body {
         max-width: 10rem;
         height: fit-content;
         margin-bottom: 0.5rem;
+        SVG {
+            width: 100%;
+            height: auto;
+        }
     }
 }
 .extra_btn {

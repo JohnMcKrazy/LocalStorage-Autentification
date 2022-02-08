@@ -229,6 +229,11 @@ body #krazy_logo_svg .cls-4 {
   margin-bottom: 0.5rem;
 }
 
+.login_info .logo_container SVG {
+  width: 100%;
+  height: auto;
+}
+
 .extra_btn {
   width: 3rem;
   height: 3rem;
