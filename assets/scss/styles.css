@@ -223,6 +223,9 @@ body #krazy_logo_svg .cls-4 {
 
 .login_info .logo_container {
   max-width: 10rem;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
   margin-bottom: 0.5rem;
 }
 
